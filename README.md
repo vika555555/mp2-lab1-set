@@ -1,5 +1,5 @@
 # Методы программирования 2: Множества на основе битовых полей
-
+всем привет это мой влог и седня мы занимаемся прогой 
 [![Build Status](https://travis-ci.org/UNN-ITMM-Software/mp2-lab1-set.svg)][travis]
 
 <!-- TODO
